@@ -1,0 +1,1 @@
+[{"title": "Dominos Pizza", "amount": 732, "category": "Food", "date": "20/03/2013"}, {"title": "Lapinoz Pizza", "amount": 324, "category": "Food", "date": "21/10/2004"}, {"title": "Purple Travels", "amount": 1024, "category": "Travel", "date": "23/09/2015"}, {"title": "Macbook M4 2025 256 GB Sky Blue", "amount": 90000, "category": "Electronics", "date": "21/10/2004"}]
